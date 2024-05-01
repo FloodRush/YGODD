@@ -13,7 +13,7 @@ struct profile{
 
 
 
-}
+};
 
 int main(){
 
@@ -22,10 +22,10 @@ int main(){
 
   cout<<"1 - Profile Setup";
 
+    int i;
+  while(i){
 
-  while(){
-
-
+    i++;
 
 
   }
