@@ -1,34 +1,9 @@
-#include <iostream>
-#include <string>
+#include <stdio.h>
 #include <vector>
-using namespace std;
-
-struct profile{
-  public:
-    
-  private:
-    string name;
-    int ID;
-    
-
-
-
-};
 
 int main(){
 
-  cout<<"Welcome to Duel Disk Setup!";
-  cout<<"Chose an option from below\n"<<endl;
-
-  cout<<"1 - Profile Setup";
-
-    int i;
-  while(i){
-
-    i++;
 
 
-  }
-
-  return 0;
+return 0;
 }
